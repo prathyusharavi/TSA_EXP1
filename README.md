@@ -16,7 +16,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 df=pd.read_csv('Toyota.csv')
+df.head()
+
 ```
+![image](https://github.com/user-attachments/assets/b86bda39-e6d0-4d75-958c-1c657948d25b)
+
+
 ```
 x=df['Age']
 y=df['HP']
@@ -32,17 +37,9 @@ plt.show()
 
 
 
-
-
-
-
-
-
-
-
 # OUTPUT:
 
-
+![image](https://github.com/user-attachments/assets/650c7562-e35b-44da-8ad1-1a4b9f4a8aa9)
 
 
 
