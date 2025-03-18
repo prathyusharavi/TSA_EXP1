@@ -42,7 +42,7 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/650c7562-e35b-44da-8ad1-1a4b9f4a8aa9)
 
-
+IT IS A NON-STATIONARY DATA
 
 
 # RESULT:
